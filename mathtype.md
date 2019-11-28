@@ -6,13 +6,13 @@
 
 在software文件夹下，见图： 
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/image%20%281%29.png)
 
 **安装方法：**
 
 安装时输入如下序列号：MTWE691-011084-R0XYL，即可完成激活
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%282%29.png)
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%283%29.png)
 
