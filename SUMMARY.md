@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [常用软件的安装](README.md)
 
